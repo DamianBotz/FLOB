@@ -8,12 +8,12 @@
  $ pkg install imagemagick
  $ termux-setup-storage
  
- # TERMUX
+ # 👨‍💻TERMUX
  $ cd /sdcard/kizakixdV04
  $ yarn
  $ npm start
 
- # RUN PM2
+ # ⌨️RUN PM2
  $ cd /sdcard/kizakixdV04
  $ yarn
  $ npm i pm2 -g
@@ -35,4 +35,5 @@
  $ git push heroku master
  
   //━━━━━━━━━━━━━━━[ ɴᴏᴛᴇ ]━━━━━━━━━━━━━━━\\
- NOTE : Script No Enc Silahkan Ke Owner, Ada Dua Tipe Script, Script Ini Dan Pribadi Owner, Ada Kualitas Ada Harga.
+ 📮NOTE : Script No Enc Silahkan Ke Owner, Ada Dua Tipe Script, Script Ini Dan Pribadi Owner, Ada Kualitas Ada Harga.
+ ⭐Upload github by DamianBotz
