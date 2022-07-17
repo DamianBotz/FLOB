@@ -11,28 +11,28 @@ global.autoReadAll = true
 
 // Ganti Sewajarnya
 global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.pengguna = 'DamianBot'
 global.premium = []
-global.author = 'KiZakiXD'
+global.author = 'Damian'
 global.pemilik = ['6285878313791'] 
 global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.ownername = 'Owner'
+global.botname = 'Damiand MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.footer = 'D a m i a n - 𝘔 𝘋'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
+global.footer1 = 'Jangan Spam Bot asw.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.yt = 'https://youtube.com/channel/UC-TywNwXqH1vwK3TWFOTaeA' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/iamkizakixd'
 global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '00000'
 global.gopay = '0000'
 global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.email = 'emailkamu@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
