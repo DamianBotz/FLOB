@@ -9,12 +9,12 @@
  $ termux-setup-storage
  
  # 👨‍💻TERMUX
- $ cd /sdcard/kizakixdV04
+ $ cd /sdcard/FLOB
  $ yarn
  $ npm start
 
  # ⌨️RUN PM2
- $ cd /sdcard/kizakixdV04
+ $ cd /sdcard/FLOP
  $ yarn
  $ npm i pm2 -g
  $ pm2 start index.js
@@ -28,7 +28,7 @@
  $ termux-setup-storage
  $ npm i -g heroku
  $ heroku login
- $ cd /sdcard/kizakixdV04
+ $ cd /sdcard/FLOP
  $ heroku git:clone -a backupte 
  $ git add .
  $ git commit -m "namafile"
@@ -36,4 +36,4 @@
  
   //━━━━━━━━━━━━━━━[ ɴᴏᴛᴇ ]━━━━━━━━━━━━━━━\\
  📮NOTE : Script No Enc Silahkan Ke Owner, Ada Dua Tipe Script, Script Ini Dan Pribadi Owner, Ada Kualitas Ada Harga.
- ⭐Upload github by DamianBotz
+  //Up ke github by DamianBotz
