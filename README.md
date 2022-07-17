@@ -36,4 +36,4 @@
  
   //━━━━━━━━━━━━━━━[ ɴᴏᴛᴇ ]━━━━━━━━━━━━━━━\\
  📮NOTE : Script No Enc Silahkan Ke Owner, Ada Dua Tipe Script, Script Ini Dan Pribadi Owner, Ada Kualitas Ada Harga.
-  //Up ke github by DamianBotz
+  //Up ke github by DamianBotz\\
